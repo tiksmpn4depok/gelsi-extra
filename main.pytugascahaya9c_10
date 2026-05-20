@@ -1,0 +1,23 @@
+#ini untuk mencetak sesuatu
+print('aya gemoy')
+print(10)
+
+# operator aritmatika
+print(10+7)
+print(100-53)
+print(10*11)
+print(81/9)
+print(55%3)
+
+buah = 'jambu'
+print(buah)
+
+angka1 = 55
+angka2 = 99
+angka3 = 99
+print(angka1+angka2-angka3)
+
+nama_depan = 'cahaya'
+nama_belakang = 'aurelia'
+print(nama_depan +' '+ nama_belakang)
+print(nama_depan,nama_belakang)

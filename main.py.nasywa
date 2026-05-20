@@ -1,0 +1,24 @@
+# ini untuk mencetak sesuatu
+print("aku suka naja")
+print(67)
+# operator aritmatika
+print(4+1)
+print(4-1)
+print(4*1)
+print(4/1)
+print(4%3)
+print(4**2)
+print(4//3)
+print(16/5)
+
+nama="reyu"
+nama="shu"
+print(nama)
+Nama="shune"
+angka1=69
+angka2=67
+print(angka1+angka2)
+nama_depan="rey"
+nama_belakang="shika"
+print(nama_depan+" "+nama_belakang)
+print(nama_depan,nama_belakang )
